@@ -1,0 +1,1 @@
+This is Przemek's first git project!
